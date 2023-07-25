@@ -1,0 +1,5 @@
+@include('component.head')
+@include('component.navbar')
+@include('component.sidebar')
+@include('component.main')
+@include('component.footer')
